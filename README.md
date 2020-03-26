@@ -14,3 +14,6 @@ plantilla que se usará en el archivo .gitignore.
 Para crear el archivo, podemos crear un archivo de texto con el bloc de notas, pero en lugar de usar la extensión .txt, usamos la 
 extensión .gitignore. Posteriormente copiamos y pegamos dentro de este archivo la plantilla generada por el sitio web indicado en el 
 párrafo anterior. Otra manera de crear el archivo .gitignore es con el comando **$ touch .gitignore** en **Git Bash**.
+
+
+En los puntos 2 y 3 se obtiene el mismo resultado, pues el puntero **punt** almacena la dirección de memoria de la variable **var**. En cambio, en el punto 4 se obtiene la dirección de memoria DEL PUNTERO en sí.
